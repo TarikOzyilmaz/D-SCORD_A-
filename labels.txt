@@ -1,0 +1,4 @@
+0 Uçlu kalem
+1 Kurşun kalem
+2 Tükenmez kalem
+3 Tahta kalemi
